@@ -10,7 +10,7 @@ const Navigation = () => (
         <Link className="item" to="/">
           BOOKS
         </Link>
-        <Link className="item" to="/Quote">
+        <Link className="item" to="/Categories">
           CATEGORIES
         </Link>
       </div>
