@@ -1,6 +1,8 @@
 import React from 'react';
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import Navigation from './components/Navigation';
+import Books from './components/BookPage';
+import Categories from './components/Categories';
 
 export default function App() {
   return (
@@ -9,7 +11,7 @@ export default function App() {
         <Navigation />
         <Routes>
           <Route path="/" element={<Books />} />
-          <Route path="/Quote" element={<Categories />} />
+          <Route path="/Categories" element={<Categories />} />
         </Routes>
       </Router>
     </>
