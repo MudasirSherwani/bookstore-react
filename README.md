@@ -7,7 +7,7 @@ Remove a selected book.
 
 ## Website Live Demo Link
 
-- [Bookstore](https://mathmagicbysherwani.netlify.app/)
+- [Bookstore](https://Bookstorebysherwani.netlify.app/)
 
 ## Built With
 
