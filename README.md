@@ -5,10 +5,6 @@ Display a list of books.
 Add a book.
 Remove a selected book.
 
-## Website Live Demo Link
-
-- [Bookstore](https://Bookstorebysherwani.netlify.app/)
-
 ## Built With
 
 - Javascript ES6
@@ -29,12 +25,12 @@ Linters Installed
 - Open GitHub URL of repositry.
 - Download Code repo in zip.
 - Extract and open repo folder into visual studio code or any other Text Editor Software.
-- GitHub Repositry URL: https://github.com/MudasirSherwani/BookStore-with-React
+- GitHub Repositry URL: https://github.com/MudasirSherwani/bookstore-react
   To get a local copy up and running follow these simple example steps.
 
 ## How to perform Test
 
-- After Clone the GitHub Repositry from URL: https://github.com/MudasirSherwani/BookStore-with-React
+- After Clone the GitHub Repositry from URL: https://github.com/MudasirSherwani/bookstore-react
 - Open terminal and run the command "npm run test".
 - This command will show you the results of testing.
 
@@ -81,5 +77,5 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-https://github.com/MudasirSherwani/BookStore-with-React/blob/main/LICENSE.md
+https://github.com/MudasirSherwani/bookstore-react/blob/main/LICENSE.md
 This project is [MIT](./MIT.md) licensed.
